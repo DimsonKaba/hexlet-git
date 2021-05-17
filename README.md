@@ -1,1 +1,1 @@
-Project for studing Git with Hexlet
+Hello, Hexlet! How are you?
